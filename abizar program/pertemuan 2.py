@@ -37,7 +37,8 @@ print("niali dari z :",z)
 # nim saya adalah = (nim anda)
 
 a = "Abizar Algifari Arham"
-b = 25240192
+b = 25241092
 
 print("nama saya adalah :", a)
 print("nim saya adalah :", b)
+
